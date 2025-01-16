@@ -1,4 +1,4 @@
-import time
+import time #Teste
 import random
 import csv
 from bs4 import BeautifulSoup
